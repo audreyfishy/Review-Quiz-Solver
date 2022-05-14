@@ -1,0 +1,15 @@
+{
+    "name": "Review Quiz Solver",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "Save your time",
+    "permissions": ["activeTab", "tabs", "storage"],
+    "content_scripts": [{
+      "matches": ["https://www.gradescope.com/courses/*/assignments/*/submissions/new"],
+      "js": [
+        "main.user.js"
+      ],
+      "run_at": "document_end",
+      "all_frames": true
+    }]
+  }
