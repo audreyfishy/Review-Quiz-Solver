@@ -11,4 +11,4 @@
 
 ----
 
-### You will never waste your time waiting for the slide to finish!!
+### You will never waste your time!!
