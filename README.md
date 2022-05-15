@@ -1,4 +1,4 @@
-# How to Install the ZyBook Helper
+# How to Install the Review Quiz Solver
 
 1. Download the `src` folder in your computer.
 2. Install and open Google Chrome.
